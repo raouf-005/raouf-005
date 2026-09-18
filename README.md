@@ -46,8 +46,8 @@ React dashboard over an Express/MongoDB API, session auth with Passport, and a G
 `React` `Express` `MongoDB` `Passport` — [live demo](https://vyvix.vercel.app)
 
 ### [SimulatorWindowsLinux](https://github.com/raouf-005/SimulatorWindowsLinux)
-A browser simulation of the Windows and Linux desktop environments — window management, file system and shell behaviour reproduced in the front end.
-`Next.js` `TypeScript` — [live demo](https://simulator-windows-linux.vercel.app)
+An interactive side-by-side simulation of the Windows and Linux desktop experience — taskbar, terminal, system monitor, simulated lag, and a narrative flow that makes the comparison something you feel rather than read.
+`Next.js` `React` `JavaScript` — [live demo](https://simulator-windows-linux.vercel.app)
 
 ---
 
