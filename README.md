@@ -1,6 +1,6 @@
 # Abderraouf Derardja
 
-**Systems & Network Engineering, moving toward DevOps** &nbsp;·&nbsp; M1 Systemes & Reseaux, ESTIN (Bejaia, Algeria)
+**Systems & Network Engineering, moving toward DevOps** &nbsp;·&nbsp; M2 Systemes & Reseaux, Paris Saclay 
 
 I build and automate network infrastructure, and I spend my spare time taking apart the binaries that run on it.
 
